@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BuildingJavaPrograms-ABackToBasicsApproach.iml" filepath="$PROJECT_DIR$/.idea/BuildingJavaPrograms-ABackToBasicsApproach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 1/Chapter 1.iml" filepath="$PROJECT_DIR$/Chapter 1/Chapter 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Drawing/Drawing.iml" filepath="$PROJECT_DIR$/Drawing/Drawing.iml" />
+    </modules>
+  </component>
+</project>
